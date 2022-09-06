@@ -100,3 +100,5 @@ while True:
     elif lives==0:
         print(f"You lost, the word was '{word}'.")
         break
+
+input()
